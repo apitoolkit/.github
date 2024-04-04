@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Try out APIToolkit {...}
+    url: https://app.apitoolkit.io
+    about: Get started with managing your API.
+  - name: Explore our Documentation 📖
+    url: https://apitoolkit.io/docs
+    about: Product and SDK developer documentation.
+  - name: Join our Discord Server 💬
+    url: https://discord.gg/dEB6EjQnKB
+    about: Community discussions and technical support.
