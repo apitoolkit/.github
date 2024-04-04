@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Try out APIToolkit {...}
     url: https://app.apitoolkit.io
-    about: Get started with managing your API.
+    about: Get started with managing and monitoring your API.
   - name: Explore our Documentation 📖
     url: https://apitoolkit.io/docs
     about: Product and SDK developer documentation.
