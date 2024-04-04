@@ -4,6 +4,8 @@ description: |
   For questions, please join our Discord Server: https://discord.gg/dEB6EjQnKB.
 labels:
   - bug
+assignees:
+  - "tonyalaribe"
 body:
   - type: markdown
     attributes:
