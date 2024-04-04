@@ -31,6 +31,6 @@ Our SDKs and developer tools are open-sourced and you can contribute to them by 
 [![Follow us on DEV](https://img.shields.io/badge/DEV-0068ff?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/apitoolkit)
 [![Explore all our links](https://img.shields.io/badge/All%20links-0068ff?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/apitoolkit)
 
-<img src="https://github.com/apitoolkit/.github/blob/main/icon.png?raw=true" width="50" height="50" />
+<a href="https://apitoolkit.io" target="_blank" rel="noopener noreferrer"><img src="https://github.com/apitoolkit/.github/blob/main/icon.png?raw=true" width="40" /></a>
 
 </div>
