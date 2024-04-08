@@ -1,8 +1,7 @@
 # Security Policy
 
-**Please do not report security vulnerabilities through public GitHub issues.**
-
-We take all security vulnerabilities seriously and will acknowledge your contributions.
+> [!IMPORTANT]
+> **Please do not report security vulnerabilities through public GitHub issues**. We take all security vulnerabilities seriously and will acknowledge your contributions.
 
 For security issues, kindly email us at `hello@apitoolkit.io` with the following information to help us triage your report more quickly:
 
@@ -14,7 +13,7 @@ For security issues, kindly email us at `hello@apitoolkit.io` with the following
 - Proof-of-concept or exploit code (if possible).
 - Impact of the issue, including how an attacker might exploit the issue.
 
-The lead maintainer will acknowledge your email within 24 hours and will send a more detailed response within 48 hours indicating the next steps in handling your report. After the initial reply to your report, the security team will endeavor to keep you informed of the progress toward a fix and full announcement.
+The lead maintainer of the project will acknowledge your email within 24 hours and send a more detailed response within 48 hours indicating the next steps in handling your report. After the initial reply to your report, the security team will endeavor to keep you informed of the progress toward a fix and full announcement.
 
 ## Disclosure Policy
 
