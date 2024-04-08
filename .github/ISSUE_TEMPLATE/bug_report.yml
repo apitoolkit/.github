@@ -1,6 +1,6 @@
 name: Bug report 🐛
 description: |
-  Something is broken and you have a reliable reproduction? Let us know here.
+  Is something broken and do you have a reliable reproduction? Let us know here.
 labels:
   - bug
 assignees:
