@@ -1,8 +1,8 @@
-[![APIToolkit Banner](https://github.com/apitoolkit/.github/blob/main/banner.png?raw=true)](https://apitoolkit.io/abouthttps://apitoolkit.io?utm_source=apitoolkit_github_profile)
+[![APItoolkit Banner](https://github.com/apitoolkit/.github/blob/main/banner.png?raw=true)](https://apitoolkit.io/abouthttps://apitoolkit.io?utm_source=apitoolkit_github_profile)
 
 <div align="center">
     
-[APIToolkit](https://apitoolkit.io?utm_source=apitoolkit_github_profile) is an end-to-end API and web services management toolkit for engineers and customer support teams. We use AI to help engineering teams [observe](https://apitoolkit.io/features/api-observabilityhttps://apitoolkit.io?utm_source=apitoolkit_github_profile), [manage](https://apitoolkit.io/features/api-managementhttps://apitoolkit.io?utm_source=apitoolkit_github_profile), [monitor](https://apitoolkit.io/features/api-analyticshttps://apitoolkit.io?utm_source=apitoolkit_github_profile), and [test](https://apitoolkit.io/features/error-trackinghttps://apitoolkit.io?utm_source=apitoolkit_github_profile) their backend systems and any APIs they depend on.
+[APItoolkit](https://apitoolkit.io?utm_source=apitoolkit_github_profile) is an end-to-end API and web services management toolkit for engineers and customer support teams. We use AI to help engineering teams [observe](https://apitoolkit.io/features/api-observabilityhttps://apitoolkit.io?utm_source=apitoolkit_github_profile), [manage](https://apitoolkit.io/features/api-managementhttps://apitoolkit.io?utm_source=apitoolkit_github_profile), [monitor](https://apitoolkit.io/features/api-analyticshttps://apitoolkit.io?utm_source=apitoolkit_github_profile), and [test](https://apitoolkit.io/features/error-trackinghttps://apitoolkit.io?utm_source=apitoolkit_github_profile) their backend systems and any APIs they depend on.
     
 </div>
 
