@@ -1,3 +1,3 @@
 # .github
 
-GitHub community health files for the APIToolkit organization.
+GitHub community health files for the APItoolkit organization.
