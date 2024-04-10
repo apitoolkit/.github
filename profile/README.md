@@ -1,4 +1,4 @@
-[![APItoolkit Banner](https://github.com/apitoolkit/.github/blob/main/banner.png?raw=true)](https://apitoolkit.io/abouthttps://apitoolkit.io?utm_source=apitoolkit_github_profile)
+[![APItoolkit Banner](https://github.com/apitoolkit/.github/blob/main/images/banner.png?raw=true)](https://apitoolkit.io/abouthttps://apitoolkit.io?utm_source=apitoolkit_github_profile)
 
 <div align="center">
     
@@ -31,6 +31,6 @@ Our SDKs and developer tools are open-sourced and you can contribute to them by 
 [![Follow us on DEV](https://img.shields.io/badge/DEV-0068ff?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/apitoolkit)
 [![Explore all our links](https://img.shields.io/badge/All%20links-0068ff?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/apitoolkit)
 
-<a href="https://apitoolkit.iohttps://apitoolkit.io?utm_source=apitoolkit_github_profile" target="_blank" rel="noopener noreferrer"><img src="https://github.com/apitoolkit/.github/blob/main/icon.png?raw=true" width="40" /></a>
+<a href="https://apitoolkit.iohttps://apitoolkit.io?utm_source=apitoolkit_github_profile" target="_blank" rel="noopener noreferrer"><img src="https://github.com/apitoolkit/.github/blob/main/images/icon.png?raw=true" width="40" /></a>
 
 </div>
