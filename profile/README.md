@@ -2,7 +2,7 @@
 
 <div align="center">
     
-[APItoolkit](https://apitoolkit.io?utm_source=apitoolkit_github_profile) is an end-to-end API and web services management toolkit for engineers and customer support teams. We use AI to help engineering teams [observe](https://apitoolkit.io/features/api-observabilityhttps://apitoolkit.io?utm_source=apitoolkit_github_profile), [manage](https://apitoolkit.io/features/api-managementhttps://apitoolkit.io?utm_source=apitoolkit_github_profile), [monitor](https://apitoolkit.io/features/api-analyticshttps://apitoolkit.io?utm_source=apitoolkit_github_profile), and [test](https://apitoolkit.io/features/error-trackinghttps://apitoolkit.io?utm_source=apitoolkit_github_profile) their backend systems and any APIs they depend on.
+[APItoolkit](https://apitoolkit.io?utm_source=apitoolkit_github_profile) is an end-to-end API and web services management toolkit for engineers and customer support teams. We use AI to help engineering teams [observe](https://apitoolkit.io/features/api-observability?utm_source=apitoolkit_github_profile), [manage](https://apitoolkit.io/features/api-management?utm_source=apitoolkit_github_profile), [monitor](https://apitoolkit.io/features/api-analytics?utm_source=apitoolkit_github_profile), and [test](https://apitoolkit.io/features/error-tracking?utm_source=apitoolkit_github_profile) their backend systems and any APIs they depend on.
     
 </div>
 
@@ -24,7 +24,7 @@ Our SDKs and developer tools are open-sourced and you can contribute to them by 
 <div align="center">
 
 [![Join our Discord community](https://img.shields.io/badge/Discord-0068ff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dEB6EjQnKB)
-[![Follow us on X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-0068ff?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/apitoolkit)
+[![Follow us on X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-0068ff?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/apitoolkithq)
 [![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-0068ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/apitoolkit)
 [![Follow us on Instagram](https://img.shields.io/badge/Instagram-0068ff?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/apitoolkit)
 [![Subscribe to our YouTube channel](https://img.shields.io/badge/YouTube-0068ff?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@APItoolkit)
