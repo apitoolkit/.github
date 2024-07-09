@@ -11,9 +11,9 @@
 
 We’re engineers at our core, who are very close to the problems we are solving. So, we encourage our users to be a part of this community as we build solutions to solve API monitoring, management, and observability. To get started, you can check out the following resources:
 
-- [Developer Documentation](https://apitoolkit.io/docshttps://apitoolkit.io?utm_source=apitoolkit_github_profile)
+- [Developer Documentation](https://apitoolkit.io/docs?utm_source=apitoolkit_github_profile)
 - [Discord Community](https://discord.gg/dEB6EjQnKB)
-- [Company Blog](https://apitoolkit.io/bloghttps://apitoolkit.io?utm_source=apitoolkit_github_profile)
+- [Company Blog](https://apitoolkit.io/blog?utm_source=apitoolkit_github_profile)
 - [15+ platform-specific SDKs](https://github.com/topics/apitoolkit-sdk)
 
 
@@ -31,6 +31,6 @@ Our SDKs and developer tools are open-sourced and you can contribute to them by 
 [![Follow us on DEV](https://img.shields.io/badge/DEV-0068ff?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/apitoolkit)
 [![Explore all our links](https://img.shields.io/badge/All%20links-0068ff?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/apitoolkit)
 
-<a href="https://apitoolkit.iohttps://apitoolkit.io?utm_source=apitoolkit_github_profile" target="_blank" rel="noopener noreferrer"><img src="https://github.com/apitoolkit/.github/blob/main/images/icon.png?raw=true" width="40" /></a>
+<a href="https://apitoolkit.io?utm_source=apitoolkit_github_profile" target="_blank" rel="noopener noreferrer"><img src="https://github.com/apitoolkit/.github/blob/main/images/icon.png?raw=true" width="40" /></a>
 
 </div>
