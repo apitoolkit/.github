@@ -2,7 +2,7 @@
 
 <div align="center">
     
-[APItoolkit](https://apitoolkit.io?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile) is an end-to-end API and web services management toolkit for engineers and customer support teams. We use AI to help engineering teams [observe](https://apitoolkit.io/features/api-observability?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile), [manage](https://apitoolkit.io/features/api-management?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile), [monitor](https://apitoolkit.io/features/api-analytics?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile), and [test](https://apitoolkit.io/features/error-tracking?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile) their backend systems and any APIs they depend on.
+[APItoolkit](https://apitoolkit.io?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile) is an API-first monitoring and observability platform for engineering and customer support teams. We use AI to help engineering teams [observe](https://apitoolkit.io/features/api-observability?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile), [manage](https://apitoolkit.io/features/api-management?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile), [monitor](https://apitoolkit.io/features/api-analytics?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile), and [test](https://apitoolkit.io/features/error-tracking?utm_campaign=devrel&utm_medium=github&utm_source=apitoolkit_github_profile) their backend systems and any APIs they depend on.
     
 </div>
 
