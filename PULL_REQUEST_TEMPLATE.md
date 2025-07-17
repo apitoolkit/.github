@@ -1,4 +1,4 @@
-<!-- Thank you for contributing to APIToolkit! -->
+<!-- Thank you for contributing to Monscope! -->
 
 <!-- Briefly describe what your PR does here as much as you can. -->
 

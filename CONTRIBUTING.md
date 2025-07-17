@@ -1,6 +1,6 @@
 # Contributors Guide
 
-Hey! We're happy you want to help make APItoolkit better. We welcome all kinds of contributions; so feel free to get your hands dirty. Each project is released to the public under the project's open-source license and our [Code of Conduct](./CODE_OF_CONDUCT.md). **By participating in any project, you agree to abide by the terms of the license and code of conduct**.
+Hey! We're happy you want to help make Monoscope better. We welcome all kinds of contributions; so feel free to get your hands dirty. Each project is released to the public under the project's open-source license and our [Code of Conduct](./CODE_OF_CONDUCT.md). **By participating in any project, you agree to abide by the terms of the license and code of conduct**.
 
 ---
 
@@ -27,7 +27,6 @@ git checkout -b <new-branch-name>
 6. Push your commit(s) to your fork and create a pull request ([learn how to do this](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)).
 
 7. Well done! Someone from the team will attend to your pull request, provide some feedback, or merge it.
-
 
 ## Need Help?
 

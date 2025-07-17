@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Try out APItoolkit {...}
+  - name: Try out Monoscope {...}
     url: https://app.apitoolkit.io
     about: Get started with managing and monitoring your API.
   - name: Explore our Documentation 📖
